@@ -1,1 +1,3 @@
-# RogueLike-by-Godot
+## RogueLike-by-Godot
+This is the first game I've tried making with a game engine, and I chose godot because it was easy to understand. During that time, I was very addicted to rogue-like games, such as vampire survivors, so I wanted to try creating a game in the same genre to increase my understanding of system design and practice writing code myself.
+However, the code is not well optimized and somewhat strange since it is the first game. I apologize in advance.
